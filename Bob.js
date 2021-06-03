@@ -16,7 +16,7 @@ class Bob {
         
         ellipseMode(RADIUS);
 
-        fill("magenta");
+        fill("grey");
 
         circle(this.body.position.x, this.body.position.y, this.radius);
 
